@@ -1,0 +1,94 @@
+body {
+    color: white;
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid black;
+}
+
+.center{
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    padding: 0px 50px;
+}
+
+nav a:hover {
+    color: black;
+}
+footer {
+  position: absolute;
+width: 10000px;
+height: 103px;
+left: 0px;
+top: 831px;
+
+
+background: #D9B1F8;
+}
+
+.face {
+  position: absolute;
+width: 46.1px;
+height: 44px;
+top: 45px;
+left: 900px;
+}
+
+.insta {
+  position: absolute;
+width: 43.04px;
+height: 44px;
+left: 500px;
+top: 45px;
+
+}
+
+.twitter {
+  position: absolute;
+width: 44px;
+height: 44px;
+left: 1300px;
+top: 45px;
+}
+
+.estadual {
+  position: absolute;
+width: 655px;
+height: 21px;
+left: 600px;
+left: 50px
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 21px;
+
+color: #000000;
+
+}
